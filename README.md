@@ -1,4 +1,4 @@
-# TCGA_KIRP
+# RSF_PRCC
 ## Summary
 We constructed a prognostic model using machine learning algorithms based on the expression levels of nine genes to predict the prognosis of papillary renal cell carcinoma patients.
 ## Dependencies
